@@ -98,6 +98,10 @@ header  p {
     margin-top: 1.5rem;
 }
 
+.v  {
+    text-align: center;
+}
+
 section {
     display: flex;
     margin-top: 6rem;
